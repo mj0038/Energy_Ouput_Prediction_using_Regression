@@ -1,6 +1,6 @@
 # Energy Output Prediction Using Regression Models
 
-This project aims to predict the hourly energy output of a Combined Cycle Power Plant (CCPP) using various regression models. The dataset contains ambient variables such as temperature, pressure, and humidity, which are used to predict the plant's energy output. The project explores both linear and non-linear models, including interaction terms and K-Nearest Neighbors (KNN) regression.
+This project aims to predict the hourly energy output of a [Combined Cycle Power Plant (CCPP) Dataset from UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Combined+Cycle+Power+Plant) using various regression models . The dataset contains ambient variables such as temperature, pressure, and humidity, which are used to predict the plant's energy output. The project explores both linear and non-linear models, including interaction terms and K-Nearest Neighbors (KNN) regression.
 
 ## Table of Contents
 1. [Dataset](#dataset)
